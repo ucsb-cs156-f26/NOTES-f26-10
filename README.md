@@ -1,4 +1,4 @@
-# NOTES-f26-10 from (10/06/2026)
+# NOTES from (10/06/2026)
 
 Paper Section Assignments:
 
