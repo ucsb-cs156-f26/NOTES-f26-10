@@ -1,6 +1,6 @@
 # Section 4.6: How Big: Small vs. Large Codebases
 
-# # Question 1
+# Question 1
 
 Most of my earlier CS courses, like CS32, had assignments where I wrote small programs from scratch, usually in just a few files. Since I was the only one reading the code and it only had to pass the tests, I didn't think much about structure or style, which matches what the developers in the paper described. CS156 has been different, because our team works inside an existing codebase that we didn't write. Before adding a feature, I have to read through the existing code and follow the patterns that are already there, which often takes longer than writing the change itself. So my experience is a mix: most of school has been small, stand-alone programs, but CS156 is closer to what the paper says industry is like.
 
